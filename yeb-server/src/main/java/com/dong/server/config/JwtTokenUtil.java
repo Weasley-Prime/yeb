@@ -2,10 +2,12 @@ package com.dong.server.config;
 
 
 import io.jsonwebtoken.*;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Component;
 
+import java.math.BigDecimal;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
@@ -18,6 +20,7 @@ import java.util.Map;
  * @author wangzedong
  * @since 2021-10-10 22:33:59
  */
+@Slf4j
 @Component
 public class JwtTokenUtil {
     private static final String CLAIM_KEY_USERNAME = "sub";
@@ -25,7 +28,7 @@ public class JwtTokenUtil {
     @Value("${jwt.secret}")
     private String secret;
     @Value("{jwt.expiration}")
-    private Long expiration;
+    private String expiration;
 
     /**
      * 根据用户信息生成Token
@@ -90,7 +93,9 @@ public class JwtTokenUtil {
      * @return
      */
     private boolean isTokenExpired(String token) {
+
         Date expiredDate = getExpiredDateFromToken(token);
+        log.info(expiredDate.toString());
         return expiredDate.before(new Date());
     }
 
@@ -142,6 +147,6 @@ public class JwtTokenUtil {
      * @return
      */
     private Date generateExpirationDate() {
-        return new Date(System.currentTimeMillis() + expiration * 1000);
+        return new Date(new BigDecimal(System.currentTimeMillis()).add(new BigDecimal(expiration).multiply(new BigDecimal(1000))).longValue());
     }
 }

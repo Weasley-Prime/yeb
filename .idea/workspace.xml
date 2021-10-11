@@ -4,7 +4,197 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c0ea726-8194-4e60-b1bc-e8c0e716f90a" name="默认变更列表" comment="" />
+    <list default="true" id="6c0ea726-8194-4e60-b1bc-e8c0e716f90a" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-generator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-generator/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-generator/src/main/java/com/dong/generator/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-generator/src/main/java/com/dong/generator/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/baomidou/controller/UmsAdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/baomidou/entity/UmsAdmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/baomidou/mapper/UmsAdminMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/baomidou/service/IUmsAdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/baomidou/service/impl/UmsAdminServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/dong/generator/CodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-generator/target/classes/com/dong/generator/CodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-generator/yeb-generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-generator/yeb-generator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/config/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/config/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/OmsOrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/OmsOrderItemController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsBrandController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsProductAttributeCategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsProductAttributeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsProductCategoryAttributeRelationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsProductCategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsAdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsAdminLoginParamController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsAdminPermissionRelationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsAdminRoleRelationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsPermissionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsRoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsRolePermissionRelationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/OmsOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/OmsOrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsBrand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsProductAttribute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsProductAttributeCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsProductCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsProductCategoryAttributeRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/RespBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsAdmin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsAdminLoginParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsAdminPermissionRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsAdminRoleRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsPermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsRolePermissionRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/OmsOrderItemMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/OmsOrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsBrandMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsProductAttributeCategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsProductAttributeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsProductCategoryAttributeRelationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsProductCategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsProductMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsAdminMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsAdminPermissionRelationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsAdminRoleRelationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsPermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsRolePermissionRelationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IOmsOrderItemService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IOmsOrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsBrandService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsProductAttributeCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsProductAttributeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsProductCategoryAttributeRelationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsProductCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsAdminPermissionRelationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsAdminRoleRelationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsAdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsPermissionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsRolePermissionRelationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/OmsOrderItemServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/OmsOrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsBrandServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsProductAttributeCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsProductAttributeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsProductCategoryAttributeRelationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsProductCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsAdminPermissionRelationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsAdminRoleRelationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsAdminServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsPermissionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsRolePermissionRelationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsRoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/OmsOrderItemMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/OmsOrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsBrandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsProductAttributeCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsProductAttributeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsProductCategoryAttributeRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsProductCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsAdminMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsAdminPermissionRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsAdminRoleRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsPermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsRolePermissionRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/OmsOrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/OmsOrderItemController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsBrandController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsProductAttributeCategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsProductAttributeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsProductCategoryAttributeRelationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsProductCategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsAdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsAdminPermissionRelationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsAdminRoleRelationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsPermissionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsRoleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsRolePermissionRelationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/OmsOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/OmsOrderItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsBrand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsProductAttribute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsProductAttributeCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsProductCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsProductCategoryAttributeRelation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsAdmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsAdminPermissionRelation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsAdminRoleRelation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsPermission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsRolePermissionRelation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/OmsOrderItemMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/OmsOrderMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsBrandMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsProductAttributeCategoryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsProductAttributeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsProductCategoryAttributeRelationMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsProductCategoryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsProductMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsAdminMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsAdminPermissionRelationMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsAdminRoleRelationMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsPermissionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsRoleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsRolePermissionRelationMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IOmsOrderItemService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IOmsOrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsBrandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsProductAttributeCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsProductAttributeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsProductCategoryAttributeRelationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsProductCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsAdminPermissionRelationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsAdminRoleRelationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsAdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsPermissionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsRolePermissionRelationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsRoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/OmsOrderItemServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/OmsOrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsBrandServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsProductAttributeCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsProductAttributeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsProductCategoryAttributeRelationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsProductCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsAdminPermissionRelationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsAdminRoleRelationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsAdminServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsPermissionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsRolePermissionRelationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsRoleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/OmsOrderItemMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/OmsOrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsBrandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsProductAttributeCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsProductAttributeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsProductCategoryAttributeRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsProductCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsAdminMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsAdminPermissionRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsAdminRoleRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsPermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsRolePermissionRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/yeb-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/yeb-server.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +208,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="E:/Program Files/apache-maven-3.5.3-bin/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1zJHLL7397ndLUK9rK3XGaHZlAZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -36,21 +231,26 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/yeb-server/src/main/resources/application.yml" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Program Files (x86)\gitcode\yeb\yeb-server\src\main\resources\mapper\com.dong.server.mapper" />
       <recent name="G:\Program Files (x86)\gitcode\yeb\yeb-server\src\main\resources" />
       <recent name="G:\Program Files (x86)\gitcode\yeb\yeb-generator\src\main\resources\mapper" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com" />
+      <recent name="" />
+      <recent name="com.dong" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.YebApplication">
@@ -67,15 +267,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,11 +307,35 @@
       <option name="presentableId" value="Default" />
       <updated>1633859215868</updated>
       <workItem from="1633859220296" duration="246000" />
-      <workItem from="1633859482770" duration="17415000" />
+      <workItem from="1633859482770" duration="18211000" />
+      <workItem from="1633961900933" duration="6484000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/TAdminMapper.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

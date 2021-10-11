@@ -39,8 +39,9 @@ public class CodeGenerator {
 
         // 包配置
         PackageConfig pc = new PackageConfig.Builder()
-        .parent("com.dong.yeb.entity")
+        .parent("com.dong.generator")
         .build();
+        mpg.packageInfo(pc);
 
         // 自定义配置
         InjectionConfig cfg = new InjectionConfig.Builder()
