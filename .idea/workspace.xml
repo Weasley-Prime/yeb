@@ -5,194 +5,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0ea726-8194-4e60-b1bc-e8c0e716f90a" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_6_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_6_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_68_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_68_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_68_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_68_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_68_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_68_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_68_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_68_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_68_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_68_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_68_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_68_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_53.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_53.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_53.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_53.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_53.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_53.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-generator/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/src/main/java/com/dong/generator/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-generator/src/main/java/com/dong/generator/CodeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/baomidou/controller/UmsAdminController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/baomidou/entity/UmsAdmin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/baomidou/mapper/UmsAdminMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/baomidou/service/IUmsAdminService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/baomidou/service/impl/UmsAdminServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/target/classes/com/dong/generator/CodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-generator/target/classes/com/dong/generator/CodeGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-generator/yeb-generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-generator/yeb-generator.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yeb-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/config/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/config/JwtTokenUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/OmsOrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/OmsOrderItemController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsBrandController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsProductAttributeCategoryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsProductAttributeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsProductCategoryAttributeRelationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsProductCategoryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/PmsProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsAdminController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsAdminLoginParamController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsAdminPermissionRelationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsAdminRoleRelationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsPermissionController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsRoleController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/UmsRolePermissionRelationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/OmsOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/OmsOrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsBrand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsProductAttribute.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsProductAttributeCategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsProductCategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/PmsProductCategoryAttributeRelation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/RespBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsAdmin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsAdminLoginParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsAdminPermissionRelation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsAdminRoleRelation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsPermission.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsRole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/UmsRolePermissionRelation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/OmsOrderItemMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/OmsOrderMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsBrandMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsProductAttributeCategoryMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsProductAttributeMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsProductCategoryAttributeRelationMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsProductCategoryMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/PmsProductMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsAdminMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsAdminPermissionRelationMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsAdminRoleRelationMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsPermissionMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsRoleMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/UmsRolePermissionRelationMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IOmsOrderItemService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IOmsOrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsBrandService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsProductAttributeCategoryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsProductAttributeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsProductCategoryAttributeRelationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsProductCategoryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IPmsProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsAdminPermissionRelationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsAdminRoleRelationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsAdminService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsPermissionService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsRolePermissionRelationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/IUmsRoleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/OmsOrderItemServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/OmsOrderServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsBrandServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsProductAttributeCategoryServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsProductAttributeServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsProductCategoryAttributeRelationServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsProductCategoryServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/PmsProductServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsAdminPermissionRelationServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsAdminRoleRelationServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsAdminServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsPermissionServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsRolePermissionRelationServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/UmsRoleServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/OmsOrderItemMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/OmsOrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsBrandMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsProductAttributeCategoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsProductAttributeMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsProductCategoryAttributeRelationMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsProductCategoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/PmsProductMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsAdminMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsAdminPermissionRelationMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsAdminRoleRelationMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsPermissionMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsRoleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/UmsRolePermissionRelationMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/OmsOrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/OmsOrderItemController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsBrandController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsProductAttributeCategoryController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsProductAttributeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsProductCategoryAttributeRelationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsProductCategoryController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/PmsProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsAdminController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsAdminPermissionRelationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsAdminRoleRelationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsPermissionController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsRoleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/UmsRolePermissionRelationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/OmsOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/OmsOrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsBrand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsProductAttribute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsProductAttributeCategory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsProductCategory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/PmsProductCategoryAttributeRelation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsAdmin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsAdminPermissionRelation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsAdminRoleRelation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsPermission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsRole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/UmsRolePermissionRelation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/OmsOrderItemMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/OmsOrderMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsBrandMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsProductAttributeCategoryMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsProductAttributeMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsProductCategoryAttributeRelationMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsProductCategoryMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/PmsProductMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsAdminMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsAdminPermissionRelationMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsAdminRoleRelationMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsPermissionMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsRoleMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/UmsRolePermissionRelationMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IOmsOrderItemService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IOmsOrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsBrandService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsProductAttributeCategoryService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsProductAttributeService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsProductCategoryAttributeRelationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsProductCategoryService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IPmsProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsAdminPermissionRelationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsAdminRoleRelationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsAdminService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsPermissionService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsRolePermissionRelationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/IUmsRoleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/OmsOrderItemServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/OmsOrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsBrandServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsProductAttributeCategoryServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsProductAttributeServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsProductCategoryAttributeRelationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsProductCategoryServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/PmsProductServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsAdminPermissionRelationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsAdminRoleRelationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsAdminServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsPermissionServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsRolePermissionRelationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/UmsRoleServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/OmsOrderItemMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/OmsOrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsBrandMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsProductAttributeCategoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsProductAttributeMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsProductCategoryAttributeRelationMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsProductCategoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/PmsProductMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsAdminMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsAdminPermissionRelationMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsAdminRoleRelationMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsPermissionMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsRoleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/UmsRolePermissionRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/TAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/TAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/TAdminMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/TAdminMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/TAdminRoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/TAdminRoleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/TDepartmentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/TDepartmentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/ITAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/ITAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/TAdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/TAdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/TAdmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/TAdmin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/TAdminMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/TAdminMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/TAdminRoleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/TAdminRoleMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/TDepartmentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/TDepartmentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/ITAdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/ITAdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/TAdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/TAdminServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yeb-server/yeb-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/yeb-server.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -211,16 +113,155 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yeb-server/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/Program Files/apache-maven-3.5.3-bin/apache-maven-3.5.3" />
-        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
+        <option name="localRepository" value="D:\Program Files (x86)\apache-maven-3.6.0-bin\maven-repository" />
+        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yeb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yeb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yeb-generator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yeb-generator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yeb-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yeb-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="63" />
+    <option name="y" value="6" />
+    <option name="width" value="1778" />
+    <option name="height" value="999" />
+  </component>
   <component name="ProjectId" id="1zJHLL7397ndLUK9rK3XGaHZlAZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yeb" type="462c0819:PsiDirectoryNode" />
+              <item name="yeb-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yeb" type="462c0819:PsiDirectoryNode" />
+              <item name="yeb-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yeb" type="462c0819:PsiDirectoryNode" />
+              <item name="yeb-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yeb" type="462c0819:PsiDirectoryNode" />
+              <item name="yeb-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yeb" type="462c0819:PsiDirectoryNode" />
+              <item name="yeb-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yeb" type="462c0819:PsiDirectoryNode" />
+              <item name="yeb-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yeb" type="462c0819:PsiDirectoryNode" />
+              <item name="yeb-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dong" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yeb" type="462c0819:PsiDirectoryNode" />
+              <item name="yeb-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dong" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -234,26 +275,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/yeb-server/src/main/resources/application.yml" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JetBrains 2021.x更新10月08日全家桶激活/JetBrains全家桶，暴力破解无限重置-补丁/ide-eval-resetter-2.2.4.zip" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\Program Files (x86)\gitcode\yeb\yeb-server\src\main\resources\mapper\com.dong.server.mapper" />
       <recent name="G:\Program Files (x86)\gitcode\yeb\yeb-server\src\main\resources" />
       <recent name="G:\Program Files (x86)\gitcode\yeb\yeb-generator\src\main\resources\mapper" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com" />
-      <recent name="" />
-      <recent name="com.dong" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.YebApplication">
+  <component name="RunManager" selected="Application.YebApplication">
     <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dong.generator.CodeGenerator" />
       <module name="yeb-generator" />
@@ -267,13 +304,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="YebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dong.server.YebApplication" />
+      <module name="yeb-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dong.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -293,12 +332,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.YebApplication" />
         <item itemvalue="Spring Boot.YebApplication" />
-        <item itemvalue="应用程序.CodeGenerator" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="6c0ea726-8194-4e60-b1bc-e8c0e716f90a" name="默认变更列表" comment="" />
@@ -307,35 +349,154 @@
       <option name="presentableId" value="Default" />
       <updated>1633859215868</updated>
       <workItem from="1633859220296" duration="246000" />
-      <workItem from="1633859482770" duration="18211000" />
-      <workItem from="1633961900933" duration="6484000" />
+      <workItem from="1633859482770" duration="17415000" />
+      <workItem from="1633923439527" duration="899000" />
+      <workItem from="1633926066995" duration="6112000" />
+      <workItem from="1634000669955" duration="194000" />
+      <workItem from="1634000890804" duration="201000" />
+      <workItem from="1634001109541" duration="1705000" />
+      <workItem from="1634002837560" duration="13018000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="899000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="right" id="Maven" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yeb-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/config/JwtTokenUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/TAdminMapper.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>yeb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Spring-5.2.3.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
