@@ -3,14 +3,10 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://192.168.64.128
+    url: jdbc:mysql://localhost:3306/yeb
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: root
-  redis:
-    database: 0
-    host: 192.168.64.128
-    port: 6379
 
 mybatis-plus:
   mapper-locations: classpath*:/mapper/*Mapper.xml
@@ -23,11 +19,7 @@ logging:
     com.dong.server.mapper: debug
 
 jwt:
-  #jwt存储的请求头
   tokenHeader: Authorization
-  #jwt加解密使用的秘钥
   secret: yeb-secret
-  #jwt的超期限时间(60*60*24)
   expiration: 86400
-  #jwt负载中拿到的开头
   tokenHead: Bearer

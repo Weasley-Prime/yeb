@@ -45,12 +45,16 @@ public class TAdminServiceImpl extends ServiceImpl<TAdminMapper, TAdmin> impleme
 
     @Override
     public TAdmin getAdminByUserName(String username) {
-        return mapper.selectOne(new QueryWrapper<TAdmin>().eq("username",username).eq("enable",true));
+        return mapper.selectOne(new QueryWrapper<TAdmin>().eq("username",username).eq("enabled",true));
     }
 
     @Override
-    public CommonResult login(String username, String password, HttpServletRequest request) {
+    public CommonResult login(String username, String password,String code, HttpServletRequest request) {
         UserDetails userDetails = userDetailsService.loadUserByUsername(username);
+        String captcha = (String) request.getSession().getAttribute("captcha");
+        if(null == captcha || !captcha.equalsIgnoreCase(code)){
+            return CommonResult.error("验证码错误");
+        }
         if(null == userDetails || !passwordEncoder.matches(password,userDetails.getPassword())){
             return CommonResult.error("用户名或密码错误");
         }

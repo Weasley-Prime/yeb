@@ -18,5 +18,5 @@ import javax.servlet.http.HttpServletRequest;
 public interface ITAdminService extends IService<TAdmin> {
     TAdmin getAdminByUserName(String username);
 
-    CommonResult login(String username, String password, HttpServletRequest request);
+    CommonResult login(String username, String password,String code, HttpServletRequest request);
 }
