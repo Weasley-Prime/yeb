@@ -36,12 +36,14 @@ public class TAdminServiceImpl extends ServiceImpl<TAdminMapper, TAdmin> impleme
     private TAdminMapper mapper;
     @Autowired
     private UserDetailsService userDetailsService;
-
-    private PasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
     @Autowired
     private JwtTokenUtil jwtTokenUtil;
+
+    private PasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
+
     @Value("${jwt.tokenHead}")
     private String tokenHead;
+
 
     @Override
     public TAdmin getAdminByUserName(String username) {

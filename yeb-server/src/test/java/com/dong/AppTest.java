@@ -2,6 +2,8 @@ package com.dong;
 
 import static org.junit.Assert.assertTrue;
 
+import com.dong.server.entity.TMenu;
+import com.dong.server.mapper.TMenuMapper;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -10,22 +12,20 @@ import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
 import java.util.Date;
+import java.util.List;
 
 /**
  * Unit test for simple App.
  */
+@Component
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
-    @Value("${jwt.expiration}")
-    private String expiration;
+    @Autowired
+    private  TMenuMapper mapper;
+
     @Test
     public void shouldAnswerWithTrue()
     {
-        System.out.println(expiration);
-//        Date date = new Date(new BigDecimal(System.currentTimeMillis()).add(new BigDecimal(expiration).multiply(new BigDecimal(1000))).longValue());
-//        System.out.println(date);
+        System.out.println(mapper.getMenuByAdminId(1)==null?1:0);
     }
 }

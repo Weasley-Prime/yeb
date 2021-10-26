@@ -2,6 +2,9 @@ package com.dong.server.service;
 
 import com.dong.server.entity.TMenu;
 import com.baomidou.mybatisplus.extension.service.IService;
+import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
 
 /**
  * <p>
@@ -13,4 +16,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  */
 public interface ITMenuService extends IService<TMenu> {
 
+    List<TMenu> getMenuByAdminId();
+
+    List<TMenu> getMenuByRole();
 }
