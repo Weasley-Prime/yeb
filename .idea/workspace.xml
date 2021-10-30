@@ -5,72 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0ea726-8194-4e60-b1bc-e8c0e716f90a" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TMenuMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/CaptchaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/CaptchaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/TMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/TMenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/TMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/TMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/TMenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/mapper/TMenuMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/ITMenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/ITMenuService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/TAdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/TAdminServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/TMenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/service/impl/TMenuServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TAdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TAdminMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TAdminRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TAdminRoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TAppraiseMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TAppraiseMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TDepartmentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TDepartmentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TEmployeeEcMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TEmployeeEcMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TEmployeeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TEmployeeMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TEmployeeRemoveMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TEmployeeRemoveMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TEmployeeTrainMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TEmployeeTrainMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TJoblevelMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TJoblevelMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TMailLogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TMailLogMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TMenuMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TMenuRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TMenuRoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TNationMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TNationMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TOplogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TOplogMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TPoliticsStatusMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TPoliticsStatusMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TPositionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TPositionMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TRoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TSalaryAdjustMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TSalaryAdjustMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TSalaryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TSalaryMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TSysMsgContentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TSysMsgContentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/com.dong.server.mapper/TSysMsgMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/resources/mapper/TSysMsgMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/src/test/java/com/dong/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/test/java/com/dong/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/config/SecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/CaptchaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/CaptchaController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/TMenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/TMenuController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/TMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/TMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/TMenuMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/mapper/TMenuMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/ITMenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/ITMenuService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/TAdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/TAdminServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/TMenuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/service/impl/TMenuServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TAdminMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TAdminRoleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TAppraiseMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TDepartmentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TEmployeeEcMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TEmployeeMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TEmployeeRemoveMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TEmployeeTrainMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TJoblevelMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TMailLogMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TMenuMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TMenuRoleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TNationMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TOplogMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TPoliticsStatusMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TPositionMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TRoleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TSalaryAdjustMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TSalaryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TSysMsgContentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/mapper/com.dong.server.mapper/TSysMsgMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/target/test-classes/com/dong/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/test-classes/com/dong/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeb-server/yeb-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/yeb-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/TJoblevelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/TJoblevelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/TPositionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/controller/TPositionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/TAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/TAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/TJoblevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/TJoblevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/TPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/src/main/java/com/dong/server/entity/TPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/TJoblevelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/TJoblevelController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/TPositionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/controller/TPositionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/TAdmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/TAdmin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/TJoblevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/TJoblevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/TPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/yeb-server/target/classes/com/dong/server/entity/TPosition.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -376,6 +321,9 @@
       <workItem from="1635132200605" duration="19567000" />
       <workItem from="1635210445607" duration="10474000" />
       <workItem from="1635223722064" duration="18323000" />
+      <workItem from="1635296856312" duration="8252000" />
+      <workItem from="1635326456856" duration="3617000" />
+      <workItem from="1635582571320" duration="3726000" />
     </task>
     <servers />
   </component>

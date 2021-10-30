@@ -1,11 +1,13 @@
 package com.dong.server.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
+import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
 import java.io.Serializable;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.List;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
@@ -62,6 +64,10 @@ public class TAdmin implements Serializable , UserDetails {
 
     @ApiModelProperty("备注")
     private String remark;
+
+    @ApiModelProperty("角色")
+    @TableField(exist = false)
+    private List<TRole> roles;
 
 
     @Override
